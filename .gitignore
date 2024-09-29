@@ -1,0 +1,6 @@
+__pycache__/
+.env
+images/
+test.py
+outputs/
+.vscode/

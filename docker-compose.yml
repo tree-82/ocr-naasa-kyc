@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  dev-ocr:
+    image: devwftcr.azurecr.io/devocr:${tag}
+    container_name: dev-ocr
+    network_mode: host
+    restart: unless-stopped
+
