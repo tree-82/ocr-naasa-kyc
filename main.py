@@ -37,7 +37,7 @@ class ExtractResponse(BaseModel):
 def home():
     return "The server is running."
 
-async def get_image_data(img,document_type):
+async def get_image_data(img,document_type,document_has):
     corrector = PerspectiveCorrector(img)
     # warp the image
     img = corrector.correct_perspective()
@@ -61,7 +61,7 @@ async def get_image_data(img,document_type):
         top_40 = int(h *0.4)
         img = img[:top_40, :]
         dynamic_reader = DynamicMasks(img)
-        extracted_data = dynamic_reader.extract_text(document_type)
+        extracted_data = dynamic_reader.extract_text(document_has)
     else:
         raise Exception("invalid document type selected")
     return extracted_data
@@ -81,7 +81,7 @@ async def extract_passport(file: UploadFile):
 
         # Use FaceDetector to process the image
         image = detector.change_orientation(image, 30)
-        extracted_data = await get_image_data(image, "passport")
+        extracted_data = await get_image_data(image, "passport", document_has="")
             
         end = time.time()
 
@@ -92,7 +92,7 @@ async def extract_passport(file: UploadFile):
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.post("/citizenship/back")
-async def extract_citizenship_back(file:UploadFile):
+async def extract_citizenship_back(file:UploadFile, document_has:str):
     try:
         start = time.time()
         file_content = await file.read()
@@ -110,7 +110,7 @@ async def extract_citizenship_back(file:UploadFile):
         # img = detector.change_orientation_by_line()
         '''
 
-        extracted_data = await get_image_data(image, "citizenship_back")
+        extracted_data = await get_image_data(image, "citizenship_back", document_has)
             
         end = time.time()
 
