@@ -9,8 +9,8 @@ class DynamicMasks:
         self.mask = np.zeros_like(self.image, dtype=np.uint8)
         self.extracted_data = {}
         
-    def select_key_distance(image_type):
-        if (image_type=="citizenship_back"):
+    def select_key_distance(image_has):
+        if (image_has=="Municipality"):
             key_distances = {
                 "Citizenship Certificate No.": (300, 300),
                 "Sex": (48, 100),
@@ -22,13 +22,37 @@ class DynamicMasks:
                 "Municipality": (135, 290),  
                 "Ward No": (100, 50)
             }
+        elif (image_has == "VDC"):
+            {
+                "Citizenship Certificate No.": (300, 300),
+                "Sex": (48, 100),
+                "Full Name": (300, 300),
+                "Year": (50, 56),  
+                "Month": (66, 56),  
+                "Day": (47, 56),  
+                "District": (86, 150), 
+                "VDC": (76, 200),  
+                "Ward No": (100, 50)
+            }
+        elif (image_has.lower() == "sub-metropolitan"):
+            {
+                "Citizenship Certificate No.": (300, 300),
+                "Sex": (48, 100),
+                "Full Name": (300, 300),
+                "Year": (50, 56),  
+                "Month": (66, 56),  
+                "Day": (47, 56),  
+                "District": (86, 150), 
+                "Sub-Metropolitan": (210, 200),  
+                "Ward No": (100, 50)
+            }
         else:
             raise Exception("Invalid document type selected")
         return key_distances
     
-    def extract_text(self, image_type):
+    def extract_text(self, image_has):
         results = self.reader.readtext(self.image)
-        key_distances = DynamicMasks.select_key_distance(image_type)
+        key_distances = DynamicMasks.select_key_distance(image_has)
         
         for result in results:
             text = result[1]
