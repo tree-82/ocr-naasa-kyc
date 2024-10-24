@@ -1,5 +1,5 @@
 # FAST API server to read the data in ID
-Use Python 3.8.19
+Use Python 3.9
 
 ## Running the project for the first time
 It is suggested to create a different environment for installing the dependencies. It can be done using conda or venv.

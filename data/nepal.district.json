@@ -1,0 +1,7934 @@
+[{
+  "district_name": "Jhapa",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27859c"
+      },
+      "Name": "Bhadrapur",
+      "TmsId": 30,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27859d"
+      },
+      "Name": "Arjundhara",
+      "TmsId": 31,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785a4"
+      },
+      "Name": "Jhapa",
+      "TmsId": 38,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785a6"
+      },
+      "Name": "Haldibari",
+      "TmsId": 40,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278599"
+      },
+      "Name": "Mechinagar",
+      "TmsId": 27,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27859a"
+      },
+      "Name": "Damak",
+      "TmsId": 28,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27859b"
+      },
+      "Name": "Kankai",
+      "TmsId": 29,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27859e"
+      },
+      "Name": "Shivasatakshi",
+      "TmsId": 32,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27859f"
+      },
+      "Name": "Gauradaha",
+      "TmsId": 33,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785a0"
+      },
+      "Name": "Birtamod",
+      "TmsId": 34,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785a1"
+      },
+      "Name": "Kamal",
+      "TmsId": 35,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785a2"
+      },
+      "Name": "Gaurigunj",
+      "TmsId": 36,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785a3"
+      },
+      "Name": "Barhadashi",
+      "TmsId": 37,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785a5"
+      },
+      "Name": "Buddhasanti",
+      "TmsId": 39,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785a7"
+      },
+      "Name": "Kachankawal",
+      "TmsId": 41,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649463"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Morang",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785b3"
+      },
+      "Name": "Belbaari",
+      "TmsId": 53,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785b4"
+      },
+      "Name": "Letang",
+      "TmsId": 54,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785b6"
+      },
+      "Name": "Rangeli",
+      "TmsId": 56,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785b8"
+      },
+      "Name": "Sunawarsi",
+      "TmsId": 58,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785b9"
+      },
+      "Name": "Urlabaari",
+      "TmsId": 59,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785ba"
+      },
+      "Name": "Sundarharaincha",
+      "TmsId": 60,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785bc"
+      },
+      "Name": "Dhanpalthan",
+      "TmsId": 62,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785b2"
+      },
+      "Name": "Biratnagar",
+      "TmsId": 52,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785b5"
+      },
+      "Name": "Pathari Sanischare",
+      "TmsId": 55,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785b7"
+      },
+      "Name": "Ratuwamai",
+      "TmsId": 57,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785bb"
+      },
+      "Name": "Budhiganga",
+      "TmsId": 61,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785bd"
+      },
+      "Name": "Gramthan",
+      "TmsId": 63,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785be"
+      },
+      "Name": "Jahada",
+      "TmsId": 64,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785bf"
+      },
+      "Name": "Kanepokhari",
+      "TmsId": 65,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785c0"
+      },
+      "Name": "Katahari",
+      "TmsId": 66,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785c1"
+      },
+      "Name": "Kerabaari",
+      "TmsId": 67,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785c2"
+      },
+      "Name": "Miklajung",
+      "TmsId": 68,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649465"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Okhaldhunga",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785c3"
+      },
+      "Name": "Siddhicharan",
+      "TmsId": 69,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649466"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785c6"
+      },
+      "Name": "Chisankhugadhi",
+      "TmsId": 72,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649466"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785c9"
+      },
+      "Name": "Likhu",
+      "TmsId": 75,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649466"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785ca"
+      },
+      "Name": "Sunkoshi",
+      "TmsId": 76,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649466"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785c4"
+      },
+      "Name": "Khijidemwa",
+      "TmsId": 70,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649466"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785c5"
+      },
+      "Name": "Champadevi",
+      "TmsId": 71,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649466"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785c7"
+      },
+      "Name": "Manebhanjyang",
+      "TmsId": 73,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649466"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785c8"
+      },
+      "Name": "Molung",
+      "TmsId": 74,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649466"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Panchthar",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785cb"
+      },
+      "Name": "Fidim",
+      "TmsId": 77,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649467"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785cc"
+      },
+      "Name": "Falelung",
+      "TmsId": 78,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649467"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785cf"
+      },
+      "Name": "Kummayek",
+      "TmsId": 81,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649467"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785d0"
+      },
+      "Name": "Miklajung",
+      "TmsId": 82,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649467"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785d1"
+      },
+      "Name": "Tumwewa",
+      "TmsId": 83,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649467"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785cd"
+      },
+      "Name": "Falgunanda",
+      "TmsId": 79,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649467"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785ce"
+      },
+      "Name": "Hilihang",
+      "TmsId": 80,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649467"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785d2"
+      },
+      "Name": "Yangwarak",
+      "TmsId": 84,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649467"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Sankhuwasabha",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785d6"
+      },
+      "Name": "Madi",
+      "TmsId": 88,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649468"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785d7"
+      },
+      "Name": "Paanchkhapan",
+      "TmsId": 89,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649468"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785d8"
+      },
+      "Name": "Bhotkhola",
+      "TmsId": 90,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649468"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785d9"
+      },
+      "Name": "Chichila",
+      "TmsId": 91,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649468"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785da"
+      },
+      "Name": "Makalu",
+      "TmsId": 92,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649468"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785db"
+      },
+      "Name": "Sabhapokhari",
+      "TmsId": 93,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649468"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785d3"
+      },
+      "Name": "Chainpur",
+      "TmsId": 85,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649468"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785d4"
+      },
+      "Name": "Dharmadevi",
+      "TmsId": 86,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649468"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785d5"
+      },
+      "Name": "Khaadbaari",
+      "TmsId": 87,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649468"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785dc"
+      },
+      "Name": "Silichong",
+      "TmsId": 94,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649468"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Sunsari",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785e5"
+      },
+      "Name": "Itahari",
+      "TmsId": 103,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785e8"
+      },
+      "Name": "Duhabi",
+      "TmsId": 106,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785ea"
+      },
+      "Name": "Barah",
+      "TmsId": 108,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785eb"
+      },
+      "Name": "Dewangunj",
+      "TmsId": 109,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785ef"
+      },
+      "Name": "Bhokraha",
+      "TmsId": 113,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785f0"
+      },
+      "Name": "Harinagara",
+      "TmsId": 114,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785e6"
+      },
+      "Name": "Dharan",
+      "TmsId": 104,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785e7"
+      },
+      "Name": "Inaruwa",
+      "TmsId": 105,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785e9"
+      },
+      "Name": "Ramdhuni",
+      "TmsId": 107,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785ec"
+      },
+      "Name": "Koshi",
+      "TmsId": 110,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785ed"
+      },
+      "Name": "Gadhi",
+      "TmsId": 111,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785ee"
+      },
+      "Name": "Barju",
+      "TmsId": 112,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946a"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Taplejung",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785f2"
+      },
+      "Name": "Athrai Tribeni",
+      "TmsId": 116,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785f3"
+      },
+      "Name": "Sidingwa",
+      "TmsId": 117,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785f5"
+      },
+      "Name": "Mikhwakhola",
+      "TmsId": 119,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785f1"
+      },
+      "Name": "Phungling",
+      "TmsId": 115,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785f4"
+      },
+      "Name": "Faktanglung",
+      "TmsId": 118,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785f6"
+      },
+      "Name": "Meringden",
+      "TmsId": 120,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785f7"
+      },
+      "Name": "Maiwakhola",
+      "TmsId": 121,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785f8"
+      },
+      "Name": "Yangwarak",
+      "TmsId": 122,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785f9"
+      },
+      "Name": "Sirijunga",
+      "TmsId": 123,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946b"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Terathum",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785fa"
+      },
+      "Name": "Myanglung",
+      "TmsId": 124,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785fb"
+      },
+      "Name": "Laligurans",
+      "TmsId": 125,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785fc"
+      },
+      "Name": "Athrai",
+      "TmsId": 126,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785fe"
+      },
+      "Name": "Fedaap",
+      "TmsId": 128,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785fd"
+      },
+      "Name": "Chhathar",
+      "TmsId": 127,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785ff"
+      },
+      "Name": "Menchhayayem",
+      "TmsId": 129,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946c"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Udayapur",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278603"
+      },
+      "Name": "Belaka",
+      "TmsId": 133,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278606"
+      },
+      "Name": "Rautamai",
+      "TmsId": 136,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278607"
+      },
+      "Name": "Sunkoshi",
+      "TmsId": 137,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278600"
+      },
+      "Name": "Katari",
+      "TmsId": 130,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278601"
+      },
+      "Name": "Chaudandagadhi",
+      "TmsId": 131,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278602"
+      },
+      "Name": "Triyuga",
+      "TmsId": 132,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278604"
+      },
+      "Name": "Udaypurgadhi",
+      "TmsId": 134,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278605"
+      },
+      "Name": "Tapli",
+      "TmsId": 135,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946d"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Parsa",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278637"
+      },
+      "Name": "Birgunj",
+      "TmsId": 185,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278639"
+      },
+      "Name": "Subarnapur",
+      "TmsId": 187,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27863c"
+      },
+      "Name": "Chhipaharmai",
+      "TmsId": 190,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278640"
+      },
+      "Name": "Belawa",
+      "TmsId": 194,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278641"
+      },
+      "Name": "Parsagadhi",
+      "TmsId": 195,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278642"
+      },
+      "Name": "Sakhuwa Prasauni",
+      "TmsId": 196,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278730"
+      },
+      "Name": "Gaindakot",
+      "TmsId": 434,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278732"
+      },
+      "Name": "Madhyabindu",
+      "TmsId": 436,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278734"
+      },
+      "Name": "Bulingtar",
+      "TmsId": 438,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278735"
+      },
+      "Name": "Binaie",
+      "TmsId": 439,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278638"
+      },
+      "Name": "Pokhariya",
+      "TmsId": 186,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27863a"
+      },
+      "Name": "Jagarnathpur",
+      "TmsId": 188,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27863b"
+      },
+      "Name": "Dhobini",
+      "TmsId": 189,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27863d"
+      },
+      "Name": "Pakaha Mainapur",
+      "TmsId": 191,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27863e"
+      },
+      "Name": "Bindabasini",
+      "TmsId": 192,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27863f"
+      },
+      "Name": "Bahudarmai",
+      "TmsId": 193,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278643"
+      },
+      "Name": "Paterwa Sugauli",
+      "TmsId": 197,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27872f"
+      },
+      "Name": "Kawasoti",
+      "TmsId": 433,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278731"
+      },
+      "Name": "Devchuli",
+      "TmsId": 435,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278733"
+      },
+      "Name": "Bungdikali",
+      "TmsId": 437,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278736"
+      },
+      "Name": "Hupsekot",
+      "TmsId": 440,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27886a"
+      },
+      "Name": "Thori ",
+      "TmsId": 204,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278870"
+      },
+      "Name": "Jirabhawani",
+      "TmsId": 745,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946e"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Bara",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27860a"
+      },
+      "Name": "Kolhawi",
+      "TmsId": 140,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27860c"
+      },
+      "Name": "Mahagadimai",
+      "TmsId": 142,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27860e"
+      },
+      "Name": "Adarsha Kotwal",
+      "TmsId": 144,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278612"
+      },
+      "Name": "Parwanipur",
+      "TmsId": 148,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278616"
+      },
+      "Name": "Subarna",
+      "TmsId": 152,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278608"
+      },
+      "Name": "Kalaiya",
+      "TmsId": 138,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278609"
+      },
+      "Name": "Jitpursimara",
+      "TmsId": 139,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27860b"
+      },
+      "Name": "Nijgadh",
+      "TmsId": 141,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27860d"
+      },
+      "Name": "Simraungadh",
+      "TmsId": 143,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27860f"
+      },
+      "Name": "Karaiyamai",
+      "TmsId": 145,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278610"
+      },
+      "Name": "Devtaal",
+      "TmsId": 146,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278611"
+      },
+      "Name": "Pachrauta",
+      "TmsId": 147,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278613"
+      },
+      "Name": "Prasauni",
+      "TmsId": 149,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278614"
+      },
+      "Name": "Pheta",
+      "TmsId": 150,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278615"
+      },
+      "Name": "Baragadhi",
+      "TmsId": 151,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278869"
+      },
+      "Name": "Bishrampur ",
+      "TmsId": 203,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164946f"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Rautahat",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278644"
+      },
+      "Name": "Chandrapur",
+      "TmsId": 198,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278645"
+      },
+      "Name": "Garuda",
+      "TmsId": 199,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278648"
+      },
+      "Name": "Brindaban",
+      "TmsId": 202,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278649"
+      },
+      "Name": "Dewahi Gonahi",
+      "TmsId": 203,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27864a"
+      },
+      "Name": "Durga Bhagwati",
+      "TmsId": 204,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27864d"
+      },
+      "Name": "Katahariya",
+      "TmsId": 207,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278651"
+      },
+      "Name": "Ishanath",
+      "TmsId": 211,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278646"
+      },
+      "Name": "Gaur",
+      "TmsId": 200,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278647"
+      },
+      "Name": "Baudhimai",
+      "TmsId": 201,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27864b"
+      },
+      "Name": "Gadhimai",
+      "TmsId": 205,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27864c"
+      },
+      "Name": "Gujara",
+      "TmsId": 206,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27864e"
+      },
+      "Name": "Madhav Narayan",
+      "TmsId": 208,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27864f"
+      },
+      "Name": "Maulapur",
+      "TmsId": 209,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278650"
+      },
+      "Name": "Fatuwa Bijayapur",
+      "TmsId": 210,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278652"
+      },
+      "Name": "Paroha",
+      "TmsId": 212,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278653"
+      },
+      "Name": "Rajpur",
+      "TmsId": 213,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27886e"
+      },
+      "Name": "Yamunamai",
+      "TmsId": 208,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27886f"
+      },
+      "Name": "Rajdevi ",
+      "TmsId": 209,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649470"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Sarlahi",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278666"
+      },
+      "Name": "Lalbandi",
+      "TmsId": 232,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27866a"
+      },
+      "Name": "Barahathawa",
+      "TmsId": 236,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27866b"
+      },
+      "Name": "Balara",
+      "TmsId": 237,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27866c"
+      },
+      "Name": "Godaita",
+      "TmsId": 238,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27866d"
+      },
+      "Name": "Malangwa",
+      "TmsId": 239,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27866f"
+      },
+      "Name": "Kabilasi",
+      "TmsId": 241,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278671"
+      },
+      "Name": "Chandranagar",
+      "TmsId": 243,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278673"
+      },
+      "Name": "Bramhapuri",
+      "TmsId": 245,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278674"
+      },
+      "Name": "Ramnagar",
+      "TmsId": 246,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278675"
+      },
+      "Name": "Bishnu",
+      "TmsId": 247,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278665"
+      },
+      "Name": "Ishworpur",
+      "TmsId": 231,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278667"
+      },
+      "Name": "Haripur",
+      "TmsId": 233,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278668"
+      },
+      "Name": "Haripurba",
+      "TmsId": 234,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278669"
+      },
+      "Name": "Hariban",
+      "TmsId": 235,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27866e"
+      },
+      "Name": "Bagmati",
+      "TmsId": 240,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278670"
+      },
+      "Name": "Chakraghatta",
+      "TmsId": 242,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278672"
+      },
+      "Name": "Dhankaul",
+      "TmsId": 244,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27886b"
+      },
+      "Name": "Parsa",
+      "TmsId": 205,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27886c"
+      },
+      "Name": "Basbariya",
+      "TmsId": 206,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27886d"
+      },
+      "Name": "Kaudena ",
+      "TmsId": 207,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649471"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Dhanusa",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278617"
+      },
+      "Name": "Janakpur",
+      "TmsId": 153,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27861a"
+      },
+      "Name": "Dhanusadham",
+      "TmsId": 156,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27861b"
+      },
+      "Name": "Nagarain",
+      "TmsId": 157,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27861d"
+      },
+      "Name": "Mithila",
+      "TmsId": 159,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278624"
+      },
+      "Name": "Mukhiyapatti musaharmiya",
+      "TmsId": 166,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278627"
+      },
+      "Name": "Aurahi",
+      "TmsId": 169,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278618"
+      },
+      "Name": "Chhireshwor",
+      "TmsId": 154,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278619"
+      },
+      "Name": "Ganeshman Charnath",
+      "TmsId": 155,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27861c"
+      },
+      "Name": "Videha",
+      "TmsId": 158,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27861e"
+      },
+      "Name": "Sahidnagar",
+      "TmsId": 160,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27861f"
+      },
+      "Name": "Sabaila",
+      "TmsId": 161,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278620"
+      },
+      "Name": "Siddidatri",
+      "TmsId": 162,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278621"
+      },
+      "Name": "Janaknandini",
+      "TmsId": 163,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278622"
+      },
+      "Name": "Bateshwor",
+      "TmsId": 164,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278623"
+      },
+      "Name": "Mithila Bihari",
+      "TmsId": 165,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278625"
+      },
+      "Name": "Laxminiya",
+      "TmsId": 167,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278626"
+      },
+      "Name": "Hansapur",
+      "TmsId": 168,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278868"
+      },
+      "Name": "Kamala ",
+      "TmsId": 202,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278871"
+      },
+      "Name": "Dhanauji",
+      "TmsId": 746,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649472"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Siraha",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278676"
+      },
+      "Name": "Lahan",
+      "TmsId": 248,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278678"
+      },
+      "Name": "Siraha",
+      "TmsId": 250,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278679"
+      },
+      "Name": "Golbazar",
+      "TmsId": 251,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27867a"
+      },
+      "Name": "Mirchaiya",
+      "TmsId": 252,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27867d"
+      },
+      "Name": "Aurahi",
+      "TmsId": 255,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27867e"
+      },
+      "Name": "Bishnupur",
+      "TmsId": 256,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27867f"
+      },
+      "Name": "Sukhipur",
+      "TmsId": 257,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278681"
+      },
+      "Name": "Bariyarpatti",
+      "TmsId": 259,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278682"
+      },
+      "Name": "Laxmipur Patari",
+      "TmsId": 260,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278683"
+      },
+      "Name": "Naraha",
+      "TmsId": 261,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278684"
+      },
+      "Name": "Sakhuwanankarkatti",
+      "TmsId": 262,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278685"
+      },
+      "Name": "Arnama",
+      "TmsId": 263,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278686"
+      },
+      "Name": "Nawarajpur",
+      "TmsId": 264,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278677"
+      },
+      "Name": "Dhangadimai",
+      "TmsId": 249,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27867b"
+      },
+      "Name": "Kalyanpur",
+      "TmsId": 253,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27867c"
+      },
+      "Name": "Bhagawanpur",
+      "TmsId": 254,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278680"
+      },
+      "Name": "Karjanha",
+      "TmsId": 258,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649473"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Saptari",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278655"
+      },
+      "Name": "Kanchanrup",
+      "TmsId": 215,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278657"
+      },
+      "Name": "Bodebarsain",
+      "TmsId": 217,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278659"
+      },
+      "Name": "Sambhunath",
+      "TmsId": 219,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27865a"
+      },
+      "Name": "Surunga",
+      "TmsId": 220,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27865b"
+      },
+      "Name": "hanumannagar kankalini",
+      "TmsId": 221,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27865d"
+      },
+      "Name": "Chhinnamasta",
+      "TmsId": 223,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278660"
+      },
+      "Name": "Tirahut",
+      "TmsId": 226,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278661"
+      },
+      "Name": "Tilathi Koiladi",
+      "TmsId": 227,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278662"
+      },
+      "Name": "Rupani",
+      "TmsId": 228,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278663"
+      },
+      "Name": "Belhi Chapena",
+      "TmsId": 229,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278654"
+      },
+      "Name": "rajbiraj nagarpalika",
+      "TmsId": 214,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278656"
+      },
+      "Name": "Dakneshwori",
+      "TmsId": 216,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278658"
+      },
+      "Name": "Khadak",
+      "TmsId": 218,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27865c"
+      },
+      "Name": "Krishna sabaran",
+      "TmsId": 222,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27865e"
+      },
+      "Name": "Mahadeva",
+      "TmsId": 224,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27865f"
+      },
+      "Name": "Saptakosi",
+      "TmsId": 225,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278664"
+      },
+      "Name": "Bishnupur",
+      "TmsId": 230,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278867"
+      },
+      "Name": "Balan-Bihul ",
+      "TmsId": 201,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649475"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Sindhuli",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786e9"
+      },
+      "Name": "Kamalamaai",
+      "TmsId": 363,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649476"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786ea"
+      },
+      "Name": "Dudhauli",
+      "TmsId": 364,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649476"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786eb"
+      },
+      "Name": "Golanjor",
+      "TmsId": 365,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649476"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786ed"
+      },
+      "Name": "Tinpatan",
+      "TmsId": 367,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649476"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786ee"
+      },
+      "Name": "Fikkal",
+      "TmsId": 368,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649476"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786f1"
+      },
+      "Name": "Hariharpurgadhi",
+      "TmsId": 371,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649476"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786ec"
+      },
+      "Name": "Ghyankhel",
+      "TmsId": 366,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649476"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786ef"
+      },
+      "Name": "Marin",
+      "TmsId": 369,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649476"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786f0"
+      },
+      "Name": "Sunkoshi",
+      "TmsId": 370,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649476"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Kathmandu",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786b6"
+      },
+      "Name": "Kageshwori Manohara",
+      "TmsId": 312,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786b8"
+      },
+      "Name": "Gokarneshwor",
+      "TmsId": 314,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786bb"
+      },
+      "Name": "Tarkeshwor",
+      "TmsId": 317,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786bc"
+      },
+      "Name": "Dakchinkali",
+      "TmsId": 318,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786bf"
+      },
+      "Name": "Shankharapur",
+      "TmsId": 321,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786b5"
+      },
+      "Name": "Kathmandu",
+      "TmsId": 311,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786b7"
+      },
+      "Name": "Kirtipur",
+      "TmsId": 313,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786b9"
+      },
+      "Name": "Chandragiri",
+      "TmsId": 315,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786ba"
+      },
+      "Name": "Tokha",
+      "TmsId": 316,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786bd"
+      },
+      "Name": "Nagarjun",
+      "TmsId": 319,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786be"
+      },
+      "Name": "Budhanilkantha",
+      "TmsId": 320,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947b"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Kavrepalanchowk",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786a9"
+      },
+      "Name": "Banepa",
+      "TmsId": 299,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786aa"
+      },
+      "Name": "Panauti",
+      "TmsId": 300,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786ae"
+      },
+      "Name": "Chaurideurali",
+      "TmsId": 304,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786af"
+      },
+      "Name": "Temaal",
+      "TmsId": 305,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786b3"
+      },
+      "Name": "Mahabharat",
+      "TmsId": 309,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786b4"
+      },
+      "Name": "Roshi",
+      "TmsId": 310,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786a8"
+      },
+      "Name": "Dhulikhel",
+      "TmsId": 298,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786ab"
+      },
+      "Name": "Panchkhaal",
+      "TmsId": 301,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786ac"
+      },
+      "Name": "Namobuddha",
+      "TmsId": 302,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786ad"
+      },
+      "Name": "Khanikhola",
+      "TmsId": 303,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786b0"
+      },
+      "Name": "Bethanchowk",
+      "TmsId": 306,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786b1"
+      },
+      "Name": "Bhumlu",
+      "TmsId": 307,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786b2"
+      },
+      "Name": "Mandandeupur",
+      "TmsId": 308,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947c"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Lalitpur",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786c0"
+      },
+      "Name": "Lalitpur",
+      "TmsId": 322,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786c2"
+      },
+      "Name": "Mahalaxmi",
+      "TmsId": 324,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786c5"
+      },
+      "Name": "Mahankaal",
+      "TmsId": 327,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786c1"
+      },
+      "Name": "Godawari",
+      "TmsId": 323,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786c3"
+      },
+      "Name": "Konjyosom",
+      "TmsId": 325,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786c4"
+      },
+      "Name": "Bagmati",
+      "TmsId": 326,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947d"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Rasuwa",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786e5"
+      },
+      "Name": "Kalika",
+      "TmsId": 359,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786e6"
+      },
+      "Name": "Gosainkunda",
+      "TmsId": 360,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786e4"
+      },
+      "Name": "Uttargaya",
+      "TmsId": 358,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786e7"
+      },
+      "Name": "Naukunda",
+      "TmsId": 361,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786e8"
+      },
+      "Name": "Parbatikunda",
+      "TmsId": 362,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947f"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Sindhupalchok",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786f4"
+      },
+      "Name": "Melamchi",
+      "TmsId": 374,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649480"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786f6"
+      },
+      "Name": "Jugal",
+      "TmsId": 376,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649480"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786fa"
+      },
+      "Name": "Lisankhu Pakhar",
+      "TmsId": 380,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649480"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786f2"
+      },
+      "Name": "Chautara Sangachowkgadhi",
+      "TmsId": 372,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649480"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786f3"
+      },
+      "Name": "Barabise",
+      "TmsId": 373,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649480"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786f5"
+      },
+      "Name": "Indrabati",
+      "TmsId": 375,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649480"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786f7"
+      },
+      "Name": "Panchpokhari Thanpal",
+      "TmsId": 377,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649480"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786f8"
+      },
+      "Name": "Balephi",
+      "TmsId": 378,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649480"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786f9"
+      },
+      "Name": "Botekoshi",
+      "TmsId": 379,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649480"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786fb"
+      },
+      "Name": "Sunkoshi",
+      "TmsId": 381,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649480"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786fc"
+      },
+      "Name": "Helambhu",
+      "TmsId": 382,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649480"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786fd"
+      },
+      "Name": "Tripurasundari",
+      "TmsId": 383,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649480"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Makwanpur",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786c7"
+      },
+      "Name": "Thaha",
+      "TmsId": 329,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649482"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786c8"
+      },
+      "Name": "Indrasarobar",
+      "TmsId": 330,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649482"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786ca"
+      },
+      "Name": "Bakaiya",
+      "TmsId": 332,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649482"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786cb"
+      },
+      "Name": "Bagmati",
+      "TmsId": 333,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649482"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786cc"
+      },
+      "Name": "Bhimfedi",
+      "TmsId": 334,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649482"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786cd"
+      },
+      "Name": "Makwanpurgadhi",
+      "TmsId": 335,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649482"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786ce"
+      },
+      "Name": "Manhari",
+      "TmsId": 336,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649482"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786cf"
+      },
+      "Name": "Raksirang",
+      "TmsId": 337,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649482"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786c6"
+      },
+      "Name": "Hetauda",
+      "TmsId": 328,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649482"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786c9"
+      },
+      "Name": "Kailash",
+      "TmsId": 331,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649482"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Gorkha",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278708"
+      },
+      "Name": "Gorkha",
+      "TmsId": 394,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649484"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278709"
+      },
+      "Name": "Palungtar",
+      "TmsId": 395,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649484"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27870b"
+      },
+      "Name": "Siranchok",
+      "TmsId": 397,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649484"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278710"
+      },
+      "Name": "Dharche",
+      "TmsId": 402,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649484"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278711"
+      },
+      "Name": "Bhimsen",
+      "TmsId": 403,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649484"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278712"
+      },
+      "Name": "Sahid Lakhan",
+      "TmsId": 404,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649484"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27870a"
+      },
+      "Name": "Sulikot",
+      "TmsId": 396,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649484"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27870c"
+      },
+      "Name": "Ajirkot",
+      "TmsId": 398,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649484"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27870d"
+      },
+      "Name": "Aarughat",
+      "TmsId": 399,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649484"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27870e"
+      },
+      "Name": "Gandaki",
+      "TmsId": 400,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649484"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27870f"
+      },
+      "Name": "Chumnubri",
+      "TmsId": 401,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649484"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Kaski",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278714"
+      },
+      "Name": "Annapurna",
+      "TmsId": 406,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649485"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278715"
+      },
+      "Name": "Machhapuchhre",
+      "TmsId": 407,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649485"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278713"
+      },
+      "Name": "Pokhara Lekhanath",
+      "TmsId": 405,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649485"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278716"
+      },
+      "Name": "Madi",
+      "TmsId": 408,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649485"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278717"
+      },
+      "Name": "Rupa",
+      "TmsId": 409,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649485"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Lamjung",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278719"
+      },
+      "Name": "Madhya Nepal",
+      "TmsId": 411,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649486"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27871a"
+      },
+      "Name": "Rainas",
+      "TmsId": 412,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649486"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27871c"
+      },
+      "Name": "Kobholasothar",
+      "TmsId": 414,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649486"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27871d"
+      },
+      "Name": "Dudhpokhari",
+      "TmsId": 415,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649486"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27871e"
+      },
+      "Name": "Dordi",
+      "TmsId": 416,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649486"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278718"
+      },
+      "Name": "Beshi Sahar",
+      "TmsId": 410,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649486"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27871b"
+      },
+      "Name": "Sundar Bajar",
+      "TmsId": 413,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649486"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27871f"
+      },
+      "Name": "Marsyandi",
+      "TmsId": 417,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649486"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Myagdi",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278729"
+      },
+      "Name": "Beni",
+      "TmsId": 427,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649489"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27872c"
+      },
+      "Name": "Mangala",
+      "TmsId": 430,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649489"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27872d"
+      },
+      "Name": "Malika",
+      "TmsId": 431,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649489"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27872e"
+      },
+      "Name": "Raghuganga",
+      "TmsId": 432,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649489"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27872a"
+      },
+      "Name": "Annapurna",
+      "TmsId": 428,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649489"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27872b"
+      },
+      "Name": "Dhaulagiri",
+      "TmsId": 429,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649489"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Nawalparasi (Pashchim)",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278860"
+      },
+      "Name": "Sarawal",
+      "TmsId": 523,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278862"
+      },
+      "Name": "Sunwal",
+      "TmsId": 525,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278865"
+      },
+      "Name": "Pratappur",
+      "TmsId": 528,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278861"
+      },
+      "Name": "Ramgram",
+      "TmsId": 524,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278863"
+      },
+      "Name": "Tribenisusta",
+      "TmsId": 526,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278864"
+      },
+      "Name": "Palhinandan",
+      "TmsId": 527,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278866"
+      },
+      "Name": "Bardghat",
+      "TmsId": 529,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948a"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Parbat",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278737"
+      },
+      "Name": "Kushma",
+      "TmsId": 441,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278739"
+      },
+      "Name": "Jaljala",
+      "TmsId": 443,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27873a"
+      },
+      "Name": "paiyu",
+      "TmsId": 444,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278738"
+      },
+      "Name": "Phalewas",
+      "TmsId": 442,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27873b"
+      },
+      "Name": "Mahashila",
+      "TmsId": 445,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27873c"
+      },
+      "Name": "Modi",
+      "TmsId": 446,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27873d"
+      },
+      "Name": "Bihadi",
+      "TmsId": 447,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948b"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Kapilvastu",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278780"
+      },
+      "Name": "Buddhabhumi",
+      "TmsId": 514,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278784"
+      },
+      "Name": "Bandganga",
+      "TmsId": 518,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278786"
+      },
+      "Name": "Yesodhara",
+      "TmsId": 520,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27877f"
+      },
+      "Name": "Kapilvastu",
+      "TmsId": 513,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278781"
+      },
+      "Name": "Shivaraj",
+      "TmsId": 515,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278782"
+      },
+      "Name": "Maharajgang",
+      "TmsId": 516,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278783"
+      },
+      "Name": "Krishnanagar",
+      "TmsId": 517,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278785"
+      },
+      "Name": "Mayadevi",
+      "TmsId": 519,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278787"
+      },
+      "Name": "Bijayanagar",
+      "TmsId": 521,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278788"
+      },
+      "Name": "Suddhodhan",
+      "TmsId": 522,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948e"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Gulmi",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278775"
+      },
+      "Name": "Ishma",
+      "TmsId": 503,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649492"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278776"
+      },
+      "Name": "Kaligandaki",
+      "TmsId": 504,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649492"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278778"
+      },
+      "Name": "Satyawoti",
+      "TmsId": 506,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649492"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27877a"
+      },
+      "Name": "Ruru",
+      "TmsId": 508,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649492"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278773"
+      },
+      "Name": "Musikot",
+      "TmsId": 501,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649492"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278774"
+      },
+      "Name": "Resunga",
+      "TmsId": 502,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649492"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278777"
+      },
+      "Name": "Gulmidarbar",
+      "TmsId": 505,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649492"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278779"
+      },
+      "Name": "Chandrakot",
+      "TmsId": 507,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649492"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27877b"
+      },
+      "Name": "Chhatrakot",
+      "TmsId": 509,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649492"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27877c"
+      },
+      "Name": "Dhurkot",
+      "TmsId": 510,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649492"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27877d"
+      },
+      "Name": "Madane",
+      "TmsId": 511,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649492"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27877e"
+      },
+      "Name": "Malika",
+      "TmsId": 512,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649492"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Palpa",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27878c"
+      },
+      "Name": "Purbakhola",
+      "TmsId": 533,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649493"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27878d"
+      },
+      "Name": "Rambha",
+      "TmsId": 534,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649493"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27878e"
+      },
+      "Name": "Mathagadi",
+      "TmsId": 535,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649493"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27878f"
+      },
+      "Name": "Tinau",
+      "TmsId": 536,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649493"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278792"
+      },
+      "Name": "Rainadevi Chhahara",
+      "TmsId": 539,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649493"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278789"
+      },
+      "Name": "Rampur",
+      "TmsId": 530,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649493"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27878a"
+      },
+      "Name": "Tansen",
+      "TmsId": 531,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649493"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27878b"
+      },
+      "Name": "Nisdi",
+      "TmsId": 532,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649493"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278790"
+      },
+      "Name": "Baganaskali",
+      "TmsId": 537,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649493"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278791"
+      },
+      "Name": "Ribdikot",
+      "TmsId": 538,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649493"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Pyuthan",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278793"
+      },
+      "Name": "Pyuthan",
+      "TmsId": 540,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649495"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278799"
+      },
+      "Name": "Naubahini",
+      "TmsId": 546,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649495"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278794"
+      },
+      "Name": "Sworgadwari",
+      "TmsId": 541,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649495"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278795"
+      },
+      "Name": "Gaumukhi",
+      "TmsId": 542,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649495"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278796"
+      },
+      "Name": "Mandabi",
+      "TmsId": 543,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649495"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278797"
+      },
+      "Name": "Sarumarani",
+      "TmsId": 544,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649495"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278798"
+      },
+      "Name": "Mallarani",
+      "TmsId": 545,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649495"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27879a"
+      },
+      "Name": "Jhimruk",
+      "TmsId": 547,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649495"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27879b"
+      },
+      "Name": "Arawoti",
+      "TmsId": 548,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649495"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Banke",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278759"
+      },
+      "Name": "Nepalgunj",
+      "TmsId": 475,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649498"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27875b"
+      },
+      "Name": "Narainapur",
+      "TmsId": 477,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649498"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27875d"
+      },
+      "Name": "Baijanath",
+      "TmsId": 479,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649498"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27875e"
+      },
+      "Name": "Khajura",
+      "TmsId": 480,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649498"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278760"
+      },
+      "Name": "Janaki",
+      "TmsId": 482,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649498"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27875a"
+      },
+      "Name": "Koholpur",
+      "TmsId": 476,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649498"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27875c"
+      },
+      "Name": "Raptisonari",
+      "TmsId": 478,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649498"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27875f"
+      },
+      "Name": "Duduwa",
+      "TmsId": 481,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649498"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Humla",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787ce"
+      },
+      "Name": "kharpunath",
+      "TmsId": 599,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787cf"
+      },
+      "Name": "Surkegad",
+      "TmsId": 600,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787d1"
+      },
+      "Name": "Adanchuli",
+      "TmsId": 602,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787d2"
+      },
+      "Name": "Tajakot",
+      "TmsId": 603,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787cc"
+      },
+      "Name": "Simkot",
+      "TmsId": 597,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787cd"
+      },
+      "Name": "Namkha",
+      "TmsId": 598,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787d0"
+      },
+      "Name": "Chankheli",
+      "TmsId": 601,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949d"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Bhojpur",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27857f"
+      },
+      "Name": "Bhojpur",
+      "TmsId": 1,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649460"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278580"
+      },
+      "Name": "Sadananda",
+      "TmsId": 2,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649460"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278582"
+      },
+      "Name": "Ramprasadrai",
+      "TmsId": 4,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649460"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278583"
+      },
+      "Name": "Arun",
+      "TmsId": 5,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649460"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278585"
+      },
+      "Name": "Salpasilichho",
+      "TmsId": 7,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649460"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278587"
+      },
+      "Name": "Hatuwagadhi",
+      "TmsId": 9,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649460"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278581"
+      },
+      "Name": "Tyamkemaiyum",
+      "TmsId": 3,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649460"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278584"
+      },
+      "Name": "Pauwadungma",
+      "TmsId": 6,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649460"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278586"
+      },
+      "Name": "Aamchowk",
+      "TmsId": 8,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649460"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Dhankuta",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278588"
+      },
+      "Name": "Pakhribaas",
+      "TmsId": 10,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649461"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27858a"
+      },
+      "Name": "Mahalaxmi",
+      "TmsId": 12,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649461"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27858b"
+      },
+      "Name": "Sagurigadhi",
+      "TmsId": 13,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649461"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27858c"
+      },
+      "Name": "Khalsa Chhintang Sahidbhumi",
+      "TmsId": 14,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649461"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278589"
+      },
+      "Name": "Dhankuta",
+      "TmsId": 11,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649461"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27858d"
+      },
+      "Name": "Chhathar Jorpati",
+      "TmsId": 15,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649461"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27858e"
+      },
+      "Name": "Chaubise",
+      "TmsId": 16,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649461"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Ilam",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278590"
+      },
+      "Name": "Deumai",
+      "TmsId": 18,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649462"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278591"
+      },
+      "Name": "Mai",
+      "TmsId": 19,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649462"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278593"
+      },
+      "Name": "Fakfokthum",
+      "TmsId": 21,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649462"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278594"
+      },
+      "Name": "Chulachuli",
+      "TmsId": 22,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649462"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278595"
+      },
+      "Name": "Maijogmai",
+      "TmsId": 23,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649462"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278596"
+      },
+      "Name": "Mangsebung",
+      "TmsId": 24,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649462"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278598"
+      },
+      "Name": "Sandakpur",
+      "TmsId": 26,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649462"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27858f"
+      },
+      "Name": "Illam",
+      "TmsId": 17,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649462"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278592"
+      },
+      "Name": "Suryodaya",
+      "TmsId": 20,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649462"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278597"
+      },
+      "Name": "Rong",
+      "TmsId": 25,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649462"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Khotang",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785aa"
+      },
+      "Name": "Aiselukharka",
+      "TmsId": 44,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649464"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785ac"
+      },
+      "Name": "Jantedhunga",
+      "TmsId": 46,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649464"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785ad"
+      },
+      "Name": "Khotehang",
+      "TmsId": 47,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649464"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785ae"
+      },
+      "Name": "Kepilasgadhi",
+      "TmsId": 48,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649464"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785a8"
+      },
+      "Name": "Halesituwachung",
+      "TmsId": 42,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649464"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785a9"
+      },
+      "Name": "Rupakot Majhuwagadhi",
+      "TmsId": 43,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649464"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785ab"
+      },
+      "Name": "Rawabesi",
+      "TmsId": 45,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649464"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785af"
+      },
+      "Name": "Diprung",
+      "TmsId": 49,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649464"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785b0"
+      },
+      "Name": "Sakela",
+      "TmsId": 50,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649464"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785b1"
+      },
+      "Name": "Barahpokhari",
+      "TmsId": 51,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649464"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Solukhumbu",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785dd"
+      },
+      "Name": "Solududhkunda",
+      "TmsId": 95,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649469"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785de"
+      },
+      "Name": "Mapya Dudhkoshi",
+      "TmsId": 96,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649469"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785e2"
+      },
+      "Name": "Mahakulung",
+      "TmsId": 100,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649469"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785df"
+      },
+      "Name": "Khumbu Pasang Lhamu",
+      "TmsId": 97,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649469"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785e0"
+      },
+      "Name": "Thulung Dudhkoshi",
+      "TmsId": 98,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649469"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785e1"
+      },
+      "Name": "Nechasalyan",
+      "TmsId": 99,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649469"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785e3"
+      },
+      "Name": "Likhu Pike",
+      "TmsId": 101,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649469"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2785e4"
+      },
+      "Name": "Sotang",
+      "TmsId": 102,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649469"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Mahottari",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278629"
+      },
+      "Name": "Bardibas",
+      "TmsId": 171,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27862a"
+      },
+      "Name": "Gausala",
+      "TmsId": 172,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27862b"
+      },
+      "Name": "Ekdara",
+      "TmsId": 173,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278632"
+      },
+      "Name": "Matihani",
+      "TmsId": 180,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278633"
+      },
+      "Name": "Bhanggaha",
+      "TmsId": 181,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278634"
+      },
+      "Name": "Balawa",
+      "TmsId": 182,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278635"
+      },
+      "Name": "Pipara",
+      "TmsId": 183,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278628"
+      },
+      "Name": "Jaleshwor",
+      "TmsId": 170,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27862c"
+      },
+      "Name": "Somana",
+      "TmsId": 174,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27862d"
+      },
+      "Name": "Samsi",
+      "TmsId": 175,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27862e"
+      },
+      "Name": "Loharpatti",
+      "TmsId": 176,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27862f"
+      },
+      "Name": "Ramgopalpur",
+      "TmsId": 177,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278630"
+      },
+      "Name": "Mahottari",
+      "TmsId": 178,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278631"
+      },
+      "Name": "Manara",
+      "TmsId": 179,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278636"
+      },
+      "Name": "Aurahi",
+      "TmsId": 184,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649474"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Ramechhap",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786dd"
+      },
+      "Name": "Ramechhap",
+      "TmsId": 351,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649477"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786df"
+      },
+      "Name": "Khandadevi",
+      "TmsId": 353,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649477"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786dc"
+      },
+      "Name": "Manthali",
+      "TmsId": 350,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649477"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786de"
+      },
+      "Name": "Umakunda",
+      "TmsId": 352,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649477"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786e0"
+      },
+      "Name": "Gokulganga",
+      "TmsId": 354,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649477"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786e1"
+      },
+      "Name": "Doramba",
+      "TmsId": 355,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649477"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786e2"
+      },
+      "Name": "Likhu",
+      "TmsId": 356,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649477"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786e3"
+      },
+      "Name": "Sunapati",
+      "TmsId": 357,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649477"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Dolkha",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786a1"
+      },
+      "Name": "Kalinchowk",
+      "TmsId": 291,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649478"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786a5"
+      },
+      "Name": "Bigu",
+      "TmsId": 295,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649478"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786a7"
+      },
+      "Name": "Shailung",
+      "TmsId": 297,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649478"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27869f"
+      },
+      "Name": "Jiri",
+      "TmsId": 289,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649478"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786a0"
+      },
+      "Name": "Bhimeshwor",
+      "TmsId": 290,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649478"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786a2"
+      },
+      "Name": "Gaurishankar",
+      "TmsId": 292,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649478"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786a3"
+      },
+      "Name": "Tamakoshi",
+      "TmsId": 293,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649478"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786a4"
+      },
+      "Name": "Melung",
+      "TmsId": 294,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649478"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786a6"
+      },
+      "Name": "Baiteshwor",
+      "TmsId": 296,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649478"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Bhaktapur",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27868a"
+      },
+      "Name": "Suryebinayak",
+      "TmsId": 268,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649479"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278687"
+      },
+      "Name": "Changu Narayan",
+      "TmsId": 265,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649479"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278688"
+      },
+      "Name": "Bhaktapur",
+      "TmsId": 266,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649479"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278689"
+      },
+      "Name": "Madhyepur Thimi",
+      "TmsId": 267,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649479"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Dhading",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278693"
+      },
+      "Name": "Nilkantha",
+      "TmsId": 277,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278694"
+      },
+      "Name": "Khaniyabash",
+      "TmsId": 278,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278695"
+      },
+      "Name": "Gajuri",
+      "TmsId": 279,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278699"
+      },
+      "Name": "Thakre",
+      "TmsId": 283,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27869b"
+      },
+      "Name": "Benighat Rorang",
+      "TmsId": 285,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27869c"
+      },
+      "Name": "Rubi Valley",
+      "TmsId": 286,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27869d"
+      },
+      "Name": "Sidhlake",
+      "TmsId": 287,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278692"
+      },
+      "Name": "Dhunibenshi",
+      "TmsId": 276,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278696"
+      },
+      "Name": "Galchi",
+      "TmsId": 280,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278697"
+      },
+      "Name": "Gangajamuna",
+      "TmsId": 281,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278698"
+      },
+      "Name": "Jwalamukhi",
+      "TmsId": 282,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27869a"
+      },
+      "Name": "Netrabati",
+      "TmsId": 284,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27869e"
+      },
+      "Name": "Tripurasundari",
+      "TmsId": 288,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947a"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Nuwakot",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786d1"
+      },
+      "Name": "Belkotgadhi",
+      "TmsId": 339,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786d5"
+      },
+      "Name": "Tarkeshwor",
+      "TmsId": 343,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786d7"
+      },
+      "Name": "Panchakanya",
+      "TmsId": 345,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786d8"
+      },
+      "Name": "Likhu",
+      "TmsId": 346,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786d9"
+      },
+      "Name": "Meghang",
+      "TmsId": 347,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786d0"
+      },
+      "Name": "Bidur",
+      "TmsId": 338,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786d2"
+      },
+      "Name": "Kakani",
+      "TmsId": 340,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786d3"
+      },
+      "Name": "Kispang",
+      "TmsId": 341,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786d4"
+      },
+      "Name": "Tadigaun",
+      "TmsId": 342,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786d6"
+      },
+      "Name": "Dupcheshwor",
+      "TmsId": 344,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786da"
+      },
+      "Name": "Shivapuri",
+      "TmsId": 348,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786db"
+      },
+      "Name": "Suryegadhi",
+      "TmsId": 349,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164947e"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Chitwan",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27868b"
+      },
+      "Name": "Bharatpur",
+      "TmsId": 269,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649481"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27868d"
+      },
+      "Name": "Khairhani",
+      "TmsId": 271,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649481"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27868e"
+      },
+      "Name": "Madi",
+      "TmsId": 272,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649481"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278690"
+      },
+      "Name": "Rapti",
+      "TmsId": 274,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649481"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27868c"
+      },
+      "Name": "Kalika",
+      "TmsId": 270,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649481"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27868f"
+      },
+      "Name": "Ratnanagar",
+      "TmsId": 273,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649481"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278691"
+      },
+      "Name": "Echyakamana",
+      "TmsId": 275,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649481"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Baglung",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786ff"
+      },
+      "Name": "Galkot",
+      "TmsId": 385,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649483"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278700"
+      },
+      "Name": "Jaimini",
+      "TmsId": 386,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649483"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278701"
+      },
+      "Name": "Dhorpatan",
+      "TmsId": 387,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649483"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278702"
+      },
+      "Name": "Bareng",
+      "TmsId": 388,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649483"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278704"
+      },
+      "Name": "Tamankhola",
+      "TmsId": 390,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649483"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278705"
+      },
+      "Name": "Tarakhola",
+      "TmsId": 391,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649483"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278707"
+      },
+      "Name": "Badigad",
+      "TmsId": 393,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649483"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2786fe"
+      },
+      "Name": "Baglung",
+      "TmsId": 384,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649483"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278703"
+      },
+      "Name": "Kathekhola",
+      "TmsId": 389,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649483"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278706"
+      },
+      "Name": "Nisikhola",
+      "TmsId": 392,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649483"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Manang",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278723"
+      },
+      "Name": "Chame",
+      "TmsId": 421,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649487"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278720"
+      },
+      "Name": "Narfu",
+      "TmsId": 418,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649487"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278721"
+      },
+      "Name": "Nashon",
+      "TmsId": 419,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649487"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278722"
+      },
+      "Name": "Neshyang",
+      "TmsId": 420,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649487"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Mustang",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278724"
+      },
+      "Name": "Gharpajhong",
+      "TmsId": 422,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649488"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278725"
+      },
+      "Name": "Thasang",
+      "TmsId": 423,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649488"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278726"
+      },
+      "Name": "Dalome",
+      "TmsId": 424,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649488"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278727"
+      },
+      "Name": "Lomanthang",
+      "TmsId": 425,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649488"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278728"
+      },
+      "Name": "Barhagaun Muktichhetra",
+      "TmsId": 426,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649488"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Syangja",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27873f"
+      },
+      "Name": "Chapkot",
+      "TmsId": 449,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278742"
+      },
+      "Name": "Waling",
+      "TmsId": 452,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278743"
+      },
+      "Name": "Arjunchaupari",
+      "TmsId": 453,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278745"
+      },
+      "Name": "Kaligandaki",
+      "TmsId": 455,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278746"
+      },
+      "Name": "Fedikhola",
+      "TmsId": 456,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278747"
+      },
+      "Name": "Biruwa",
+      "TmsId": 457,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27873e"
+      },
+      "Name": "Galyang",
+      "TmsId": 448,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278740"
+      },
+      "Name": "Putalibazar",
+      "TmsId": 450,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278741"
+      },
+      "Name": "Virkot",
+      "TmsId": 451,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278744"
+      },
+      "Name": "Aadhikhola",
+      "TmsId": 454,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278748"
+      },
+      "Name": "Harinas",
+      "TmsId": 458,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948c"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Tanahu",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278749"
+      },
+      "Name": "Bhanu",
+      "TmsId": 459,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27874a"
+      },
+      "Name": "Bhimad",
+      "TmsId": 460,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27874b"
+      },
+      "Name": "Byas",
+      "TmsId": 461,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27874c"
+      },
+      "Name": "Shuklagandaki",
+      "TmsId": 462,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27874f"
+      },
+      "Name": "Ghiring",
+      "TmsId": 465,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278750"
+      },
+      "Name": "Devghat",
+      "TmsId": 466,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278751"
+      },
+      "Name": "Myagdi",
+      "TmsId": 467,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278752"
+      },
+      "Name": "Bandipur",
+      "TmsId": 468,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27874d"
+      },
+      "Name": "Ambukhaireni",
+      "TmsId": 463,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27874e"
+      },
+      "Name": "Rhishing",
+      "TmsId": 464,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164948d"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Nawalparasi (Purba)",
+  "district": []
+},
+{
+  "district_name": "Rupandehi",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787ac"
+      },
+      "Name": "Sammarimai",
+      "TmsId": 565,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787b0"
+      },
+      "Name": "Siyari",
+      "TmsId": 569,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787b2"
+      },
+      "Name": "Kanchan",
+      "TmsId": 571,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787b4"
+      },
+      "Name": "Marchawari",
+      "TmsId": 573,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787b5"
+      },
+      "Name": "Mayadevi",
+      "TmsId": 574,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787b7"
+      },
+      "Name": "Rohindi",
+      "TmsId": 576,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787b8"
+      },
+      "Name": "Suddodhan",
+      "TmsId": 577,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787a9"
+      },
+      "Name": "Butwal",
+      "TmsId": 562,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787aa"
+      },
+      "Name": "Lumbini Saskritik",
+      "TmsId": 563,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787ab"
+      },
+      "Name": "Sidharthanager",
+      "TmsId": 564,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787ad"
+      },
+      "Name": "Debdaha",
+      "TmsId": 566,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787ae"
+      },
+      "Name": "Sainamaina",
+      "TmsId": 567,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787af"
+      },
+      "Name": "Tilottma",
+      "TmsId": 568,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787b1"
+      },
+      "Name": "Gaidahawa",
+      "TmsId": 570,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787b3"
+      },
+      "Name": "Kotahimai",
+      "TmsId": 572,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787b6"
+      },
+      "Name": "Omsatiya",
+      "TmsId": 575,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649490"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Arghakhanchi",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278754"
+      },
+      "Name": "Sitganga",
+      "TmsId": 470,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649491"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278757"
+      },
+      "Name": "Pandini",
+      "TmsId": 473,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649491"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278753"
+      },
+      "Name": "Sandhikharka",
+      "TmsId": 469,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649491"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278755"
+      },
+      "Name": "Bhumikasthan",
+      "TmsId": 471,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649491"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278756"
+      },
+      "Name": "Chhatradev",
+      "TmsId": 472,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649491"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278758"
+      },
+      "Name": "Malarani",
+      "TmsId": 474,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649491"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Dang",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278769"
+      },
+      "Name": "Tulsipur",
+      "TmsId": 491,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649494"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27876a"
+      },
+      "Name": "Ghorahi",
+      "TmsId": 492,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649494"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27876b"
+      },
+      "Name": "Lamahi",
+      "TmsId": 493,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649494"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27876d"
+      },
+      "Name": "Dangisaran",
+      "TmsId": 495,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649494"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27876f"
+      },
+      "Name": "Rajpur",
+      "TmsId": 497,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649494"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278770"
+      },
+      "Name": "Rapti",
+      "TmsId": 498,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649494"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278772"
+      },
+      "Name": "Babai",
+      "TmsId": 500,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649494"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27876c"
+      },
+      "Name": "Bangalichuli",
+      "TmsId": 494,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649494"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27876e"
+      },
+      "Name": "Gadhawa",
+      "TmsId": 496,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649494"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278771"
+      },
+      "Name": "Santinagar",
+      "TmsId": 499,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649494"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Rolpa",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27879c"
+      },
+      "Name": "Rolpa",
+      "TmsId": 549,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649496"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27879d"
+      },
+      "Name": "Tribeni",
+      "TmsId": 550,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649496"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787a0"
+      },
+      "Name": "Runtigadhi",
+      "TmsId": 553,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649496"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787a4"
+      },
+      "Name": "Gangadev Rural",
+      "TmsId": 557,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649496"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787a5"
+      },
+      "Name": "Thabang",
+      "TmsId": 558,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649496"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27879e"
+      },
+      "Name": "Paribartan Rural",
+      "TmsId": 551,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649496"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27879f"
+      },
+      "Name": "Madi",
+      "TmsId": 552,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649496"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787a1"
+      },
+      "Name": "Lungri",
+      "TmsId": 554,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649496"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787a2"
+      },
+      "Name": "Sunil Smriti",
+      "TmsId": 555,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649496"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787a3"
+      },
+      "Name": "Sunchhahari",
+      "TmsId": 556,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649496"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Rukum (Purba)",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787a6"
+      },
+      "Name": "Putha Uttarganga",
+      "TmsId": 559,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649497"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787a7"
+      },
+      "Name": "Bhume",
+      "TmsId": 560,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649497"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787a8"
+      },
+      "Name": "Sisne",
+      "TmsId": 561,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649497"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Bardiya",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278763"
+      },
+      "Name": "Rajapur",
+      "TmsId": 485,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649499"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278764"
+      },
+      "Name": "Thakurbaba",
+      "TmsId": 486,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649499"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278765"
+      },
+      "Name": "Bansgadhi",
+      "TmsId": 487,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649499"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278768"
+      },
+      "Name": "Geruwa",
+      "TmsId": 490,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649499"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278761"
+      },
+      "Name": "Gulariya",
+      "TmsId": 483,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649499"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278762"
+      },
+      "Name": "Madhuban",
+      "TmsId": 484,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649499"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278766"
+      },
+      "Name": "Barbardiya",
+      "TmsId": 488,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649499"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278767"
+      },
+      "Name": "Badhaiyatal",
+      "TmsId": 489,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb051649499"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Rukum (Pashchim)",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787f2"
+      },
+      "Name": "Baphikot",
+      "TmsId": 635,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787ef"
+      },
+      "Name": "Musikot",
+      "TmsId": 632,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787f0"
+      },
+      "Name": "Chaurjahari",
+      "TmsId": 633,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787f1"
+      },
+      "Name": "Aathabiskot",
+      "TmsId": 634,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787f3"
+      },
+      "Name": "Tribeni",
+      "TmsId": 636,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787f4"
+      },
+      "Name": "Sanibheri",
+      "TmsId": 637,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949a"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Salyan",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787f6"
+      },
+      "Name": "Bagchaur",
+      "TmsId": 639,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787f8"
+      },
+      "Name": "Kalimati",
+      "TmsId": 641,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787fa"
+      },
+      "Name": "Kapurkot",
+      "TmsId": 643,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787fb"
+      },
+      "Name": "Chhatreswori",
+      "TmsId": 644,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787fc"
+      },
+      "Name": "Dhorchaur",
+      "TmsId": 645,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787fd"
+      },
+      "Name": "Kumakhamalika",
+      "TmsId": 646,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787f5"
+      },
+      "Name": "Sarada",
+      "TmsId": 638,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787f7"
+      },
+      "Name": "Bangad",
+      "TmsId": 640,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787f9"
+      },
+      "Name": "Tribeni",
+      "TmsId": 642,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949b"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787fe"
+      },
+      "Name": "Darma",
+      "TmsId": 647,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949b"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Dolpa",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787c4"
+      },
+      "Name": "Thuli veri",
+      "TmsId": 589,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787c5"
+      },
+      "Name": "Tripurasundari",
+      "TmsId": 590,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787c6"
+      },
+      "Name": "Dolpa buddha",
+      "TmsId": 591,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787c7"
+      },
+      "Name": "She phoksundo",
+      "TmsId": 592,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787c9"
+      },
+      "Name": "Mudkechula",
+      "TmsId": 594,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787ca"
+      },
+      "Name": "Kaike",
+      "TmsId": 595,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787c8"
+      },
+      "Name": "Jagdulla",
+      "TmsId": 593,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787cb"
+      },
+      "Name": "Chharka tangsong",
+      "TmsId": 596,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949c"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Jumla",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787db"
+      },
+      "Name": "Kankasundari",
+      "TmsId": 612,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787dc"
+      },
+      "Name": "Sinja",
+      "TmsId": 613,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787dd"
+      },
+      "Name": "Hima",
+      "TmsId": 614,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787de"
+      },
+      "Name": "Tila",
+      "TmsId": 615,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787e1"
+      },
+      "Name": "Patarasi",
+      "TmsId": 618,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787da"
+      },
+      "Name": "Chandannath",
+      "TmsId": 611,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787df"
+      },
+      "Name": "Guthichaur",
+      "TmsId": 616,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787e0"
+      },
+      "Name": "Tatopani",
+      "TmsId": 617,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949e"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Kalikot",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787e3"
+      },
+      "Name": "Raskot",
+      "TmsId": 620,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787e4"
+      },
+      "Name": "Tilagupha",
+      "TmsId": 621,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787e6"
+      },
+      "Name": "Sanni tribeni",
+      "TmsId": 623,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787e8"
+      },
+      "Name": "Kalika",
+      "TmsId": 625,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787ea"
+      },
+      "Name": "Palata",
+      "TmsId": 627,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787e2"
+      },
+      "Name": "Khadachakra",
+      "TmsId": 619,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787e5"
+      },
+      "Name": "Pachaljharana",
+      "TmsId": 622,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787e7"
+      },
+      "Name": "Naraharinath",
+      "TmsId": 624,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949f"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787e9"
+      },
+      "Name": "Mahabai",
+      "TmsId": 626,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb05164949f"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Mugu",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787eb"
+      },
+      "Name": "Chhayanath",
+      "TmsId": 628,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a0"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787ec"
+      },
+      "Name": "Mugumkarmarog",
+      "TmsId": 629,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a0"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787ed"
+      },
+      "Name": "Soru",
+      "TmsId": 630,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a0"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787ee"
+      },
+      "Name": "Khatyang",
+      "TmsId": 631,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a0"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Surketh",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278800"
+      },
+      "Name": "Bheriganga",
+      "TmsId": 649,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a1"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278801"
+      },
+      "Name": "Gurbhakot",
+      "TmsId": 650,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a1"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278802"
+      },
+      "Name": "Pabchapuri",
+      "TmsId": 651,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a1"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278804"
+      },
+      "Name": "Chaukune",
+      "TmsId": 653,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a1"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787ff"
+      },
+      "Name": "Birendra",
+      "TmsId": 648,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a1"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278803"
+      },
+      "Name": "Lekbesi",
+      "TmsId": 652,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a1"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278805"
+      },
+      "Name": "Barahatal",
+      "TmsId": 654,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a1"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278806"
+      },
+      "Name": "Chingad",
+      "TmsId": 655,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a1"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278807"
+      },
+      "Name": "Simta",
+      "TmsId": 656,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a1"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Dailekh",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787b9"
+      },
+      "Name": "Narayan",
+      "TmsId": 578,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a2"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787ba"
+      },
+      "Name": "Dullu",
+      "TmsId": 579,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a2"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787bb"
+      },
+      "Name": "Chamunda Bindrasaini",
+      "TmsId": 580,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a2"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787bc"
+      },
+      "Name": "Aathbis",
+      "TmsId": 581,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a2"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787bd"
+      },
+      "Name": "Bhagawatimai",
+      "TmsId": 582,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a2"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787be"
+      },
+      "Name": "Gurash",
+      "TmsId": 583,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a2"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787bf"
+      },
+      "Name": "Dungeshwar",
+      "TmsId": 584,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a2"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787c1"
+      },
+      "Name": "Mahabu",
+      "TmsId": 586,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a2"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787c2"
+      },
+      "Name": "Bhairabi",
+      "TmsId": 587,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a2"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787c3"
+      },
+      "Name": "Thatikadh",
+      "TmsId": 588,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a2"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787c0"
+      },
+      "Name": "Naumule",
+      "TmsId": 585,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a2"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Kailali",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27884a"
+      },
+      "Name": "Dhangadhi",
+      "TmsId": 723,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27884c"
+      },
+      "Name": "Ghodaghodi",
+      "TmsId": 725,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27884e"
+      },
+      "Name": "bhajani",
+      "TmsId": 727,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278850"
+      },
+      "Name": "Gauriganga",
+      "TmsId": 729,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278851"
+      },
+      "Name": "Janaki",
+      "TmsId": 730,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278852"
+      },
+      "Name": "Bardagoriya",
+      "TmsId": 731,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278853"
+      },
+      "Name": "Mohanyal",
+      "TmsId": 732,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278854"
+      },
+      "Name": "Kailari",
+      "TmsId": 733,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27884b"
+      },
+      "Name": "Tikapur",
+      "TmsId": 724,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27884d"
+      },
+      "Name": "Lamkichuha",
+      "TmsId": 726,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27884f"
+      },
+      "Name": "Godawari",
+      "TmsId": 728,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278855"
+      },
+      "Name": "Joshipur",
+      "TmsId": 734,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278856"
+      },
+      "Name": "Chure",
+      "TmsId": 735,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a4"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Doti",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278842"
+      },
+      "Name": "Shikhar",
+      "TmsId": 715,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a6"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278844"
+      },
+      "Name": "Badikedar",
+      "TmsId": 717,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a6"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278849"
+      },
+      "Name": "Bogatan",
+      "TmsId": 722,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a6"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278841"
+      },
+      "Name": "Dipayal siladhi",
+      "TmsId": 714,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a6"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278843"
+      },
+      "Name": "Purbichauki",
+      "TmsId": 716,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a6"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278845"
+      },
+      "Name": "Jorayal",
+      "TmsId": 718,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a6"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278846"
+      },
+      "Name": "Sayal",
+      "TmsId": 719,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a6"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278847"
+      },
+      "Name": "Aadarsh",
+      "TmsId": 720,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a6"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278848"
+      },
+      "Name": "K.I.C",
+      "TmsId": 721,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a6"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Jajarkot",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787d3"
+      },
+      "Name": "veri",
+      "TmsId": 604,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a3"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787d4"
+      },
+      "Name": "Chhedagad",
+      "TmsId": 605,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a3"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787d5"
+      },
+      "Name": "Tribeni nalgad",
+      "TmsId": 606,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a3"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787d6"
+      },
+      "Name": "Kuse",
+      "TmsId": 607,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a3"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787d7"
+      },
+      "Name": "Junichande",
+      "TmsId": 608,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a3"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787d8"
+      },
+      "Name": "Barekot",
+      "TmsId": 609,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a3"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e2787d9"
+      },
+      "Name": "Shibalaya",
+      "TmsId": 610,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a3"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Achham",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278808"
+      },
+      "Name": "Mangalsen",
+      "TmsId": 657,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a5"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27880b"
+      },
+      "Name": "Panchadewal Binayak",
+      "TmsId": 660,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a5"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27880c"
+      },
+      "Name": "Chaurpati",
+      "TmsId": 661,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a5"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27880d"
+      },
+      "Name": "Mellekh",
+      "TmsId": 662,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a5"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278811"
+      },
+      "Name": "Turmakhad",
+      "TmsId": 666,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a5"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278809"
+      },
+      "Name": "Kamalbajar",
+      "TmsId": 658,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a5"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27880a"
+      },
+      "Name": "Sanphebagar",
+      "TmsId": 659,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a5"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27880e"
+      },
+      "Name": "Bannigadi Jayagadh",
+      "TmsId": 663,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a5"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27880f"
+      },
+      "Name": "Ramaroshan",
+      "TmsId": 664,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a5"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278810"
+      },
+      "Name": "Dhakari",
+      "TmsId": 665,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a5"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Bajhang",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278823"
+      },
+      "Name": "Surma",
+      "TmsId": 684,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278826"
+      },
+      "Name": "Kedarsyun",
+      "TmsId": 687,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278827"
+      },
+      "Name": "Kanda",
+      "TmsId": 688,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27881c"
+      },
+      "Name": "jayaprithvi",
+      "TmsId": 677,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27881d"
+      },
+      "Name": "Bungal",
+      "TmsId": 678,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27881e"
+      },
+      "Name": "Talkot",
+      "TmsId": 679,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27881f"
+      },
+      "Name": "Masta",
+      "TmsId": 680,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278820"
+      },
+      "Name": "Khaptadchhanna",
+      "TmsId": 681,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278821"
+      },
+      "Name": "Thalara",
+      "TmsId": 682,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278822"
+      },
+      "Name": "Bitthadchir",
+      "TmsId": 683,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278824"
+      },
+      "Name": "Chhabispathibhera",
+      "TmsId": 685,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278825"
+      },
+      "Name": "Durgathali",
+      "TmsId": 686,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a7"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Bajura",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278828"
+      },
+      "Name": "Badimalika",
+      "TmsId": 689,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a8"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27882a"
+      },
+      "Name": "Budhiganga",
+      "TmsId": 691,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a8"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27882b"
+      },
+      "Name": "Budhinanda",
+      "TmsId": 692,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a8"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27882d"
+      },
+      "Name": "Pandav",
+      "TmsId": 694,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a8"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278830"
+      },
+      "Name": "Himali",
+      "TmsId": 697,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a8"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278829"
+      },
+      "Name": "Tribeni",
+      "TmsId": 690,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a8"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27882c"
+      },
+      "Name": "Gaumun",
+      "TmsId": 693,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a8"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27882e"
+      },
+      "Name": "Swamikartik",
+      "TmsId": 695,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a8"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27882f"
+      },
+      "Name": "Chhededaha",
+      "TmsId": 696,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a8"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Kanchanpur",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278858"
+      },
+      "Name": "Punarbas",
+      "TmsId": 737,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a9"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27885a"
+      },
+      "Name": "Mahakali",
+      "TmsId": 739,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a9"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27885e"
+      },
+      "Name": "Beldandi",
+      "TmsId": 743,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a9"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27885f"
+      },
+      "Name": "Laljhadi",
+      "TmsId": 744,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a9"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278857"
+      },
+      "Name": "bhimdatta",
+      "TmsId": 736,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a9"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278859"
+      },
+      "Name": "Bedkot",
+      "TmsId": 738,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a9"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27885b"
+      },
+      "Name": "Shuklaphata",
+      "TmsId": 740,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a9"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27885c"
+      },
+      "Name": "Belauri",
+      "TmsId": 741,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a9"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27885d"
+      },
+      "Name": "Krishnapur",
+      "TmsId": 742,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494a9"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Dadeldhura",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278833"
+      },
+      "Name": "Aalital",
+      "TmsId": 700,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494aa"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278836"
+      },
+      "Name": "Ajayameru",
+      "TmsId": 703,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494aa"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278831"
+      },
+      "Name": "Amargadhi",
+      "TmsId": 698,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494aa"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278832"
+      },
+      "Name": "Parsuram",
+      "TmsId": 699,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494aa"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278834"
+      },
+      "Name": "Bhageshwar",
+      "TmsId": 701,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494aa"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278835"
+      },
+      "Name": "nabadurga",
+      "TmsId": 702,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494aa"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278837"
+      },
+      "Name": "Ganyapdhura",
+      "TmsId": 704,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494aa"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Baitidi",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278812"
+      },
+      "Name": "Dashrathachanda",
+      "TmsId": 667,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ab"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278813"
+      },
+      "Name": "Patan",
+      "TmsId": 668,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ab"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278814"
+      },
+      "Name": "Melauli",
+      "TmsId": 669,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ab"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278815"
+      },
+      "Name": "Purchaudi",
+      "TmsId": 670,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ab"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278816"
+      },
+      "Name": "Surnaya",
+      "TmsId": 671,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ab"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278817"
+      },
+      "Name": "Sisag",
+      "TmsId": 672,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ab"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278818"
+      },
+      "Name": "Shivanath",
+      "TmsId": 673,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ab"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278819"
+      },
+      "Name": "Pancheshwar",
+      "TmsId": 674,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ab"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27881a"
+      },
+      "Name": "Dogdakedar",
+      "TmsId": 675,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ab"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27881b"
+      },
+      "Name": "Dilasaini",
+      "TmsId": 676,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ab"
+      }
+    }
+  ]
+},
+{
+  "district_name": "Darchula",
+  "district": [
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278838"
+      },
+      "Name": "Mahakali",
+      "TmsId": 705,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ac"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278839"
+      },
+      "Name": "Shailyashikar",
+      "TmsId": 706,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ac"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27883b"
+      },
+      "Name": "Apihimal",
+      "TmsId": 708,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ac"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27883f"
+      },
+      "Name": "Lekam",
+      "TmsId": 712,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ac"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e278840"
+      },
+      "Name": "Byash",
+      "TmsId": 713,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ac"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27883a"
+      },
+      "Name": "Malikarjun",
+      "TmsId": 707,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ac"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27883c"
+      },
+      "Name": "Duhu",
+      "TmsId": 709,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ac"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27883d"
+      },
+      "Name": "Naugad",
+      "TmsId": 710,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ac"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6695e6d641eb16752e27883e"
+      },
+      "Name": "Marma",
+      "TmsId": 711,
+      "DistrictId": {
+        "$oid": "6695e6bf0b9a8fb0516494ac"
+      }
+    }
+  ]
+}]

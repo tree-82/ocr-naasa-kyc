@@ -1,13 +1,11 @@
 easyocr
-python-bidi
 fastapi
 requests
 uvicorn[standard]
 matplotlib
 numpy
-opencv_python==4.5.4.60
-opencv_python_headless==4.5.4.60
+opencv_python
 pydantic
 python-dotenv
 python-multipart
-dlib
+pandas

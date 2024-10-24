@@ -1,6 +1,9 @@
 __pycache__/
 .env
 images/
-test.py
 outputs/
 .vscode/
+morphological/
+test.py
+*.ipynb
+**/*.ipynb

@@ -1,11 +1,10 @@
 # Use the official lightweight Python 3.8.19-bullseye image
-FROM python:3.8.19-bullseye
+FROM python:3.9.20-bullseye
 
 # Set the working directory
 WORKDIR /main
 
 # Install CMake and other dependencies
-RUN apt-get update && apt-get install -y cmake 
 RUN apt-get update && apt install -y libgl1-mesa-glx
 RUN python -m venv ocr
 

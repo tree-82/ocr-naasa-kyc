@@ -15,7 +15,7 @@ resources:
 
 variables:
   # Container registry service connection established during pipeline creation
-  dockerRegistryServiceConnection: '80e7ed72-da4d-465d-a81d-55cc525bde15'
+  dockerRegistryServiceConnection: 'd3220e4f-a8a0-4367-a9ed-aa9c80a5ffe0'
   imageRepository: 'devocr'
   containerRegistry: 'devwftcr.azurecr.io'
   dockerfilePath: 'Dockerfile'
@@ -88,7 +88,7 @@ stages:
             - task: DockerCompose@0
               inputs:
                 containerregistrytype: 'Azure Container Registry'
-                azureSubscription: 'Microsoft Azure Sponsorship_WFT(1b2787c9-81b1-486c-9af0-a9c6befae46a)'
+                azureSubscription: 'devops-app'
                 azureContainerRegistry: '{"loginServer":"devwftcr.azurecr.io", "id" : "/subscriptions/1b2787c9-81b1-486c-9af0-a9c6befae46a/resourceGroups/dev/providers/Microsoft.ContainerRegistry/registries/devwftcr"}'
                 dockerComposeFile: 'docker-compose.yml'
                 dockerComposeFileArgs: 'tag = $(tag)'
